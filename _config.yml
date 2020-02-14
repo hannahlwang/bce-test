@@ -20,7 +20,7 @@ title                    : "BitCuratorEdu Test"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hannah Wang"
-description              : ""
+description              : "Test description."
 url                      : https://hannahlwang.github.io
 baseurl                  : /bce-test
 repository               : hannahlwang/bce-test
